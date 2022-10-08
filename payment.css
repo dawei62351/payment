@@ -1,0 +1,43 @@
+body {
+	background-color: #29aeb3;
+}
+h1 {
+    color: #000000;
+    font-family: "Times New Roman", serif;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    }
+h2 {
+    color: #000000;
+    font-family: "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    }
+.header {
+	display: block;
+    height: 10px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.paymentForm {
+	display: block;
+    text-align: center;
+    margin: auto;
+}
+.footer {
+	display: block;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
